@@ -4,6 +4,9 @@
 *.pdb
 *.jpg
 *.jpeg
+*.o
+*.json
+*.stackdump
 GUI.tar
 
 #ignore this paths
@@ -15,4 +18,14 @@ ch3/build
 */*/README.txt
 */e.g.s/
 std_lib_facilities.cpp
+
+# temporary files
+calculator.h
+calculator_exercises.h
+computation.h
+err.h
+exercises_write_program.h
+log.sh
+main.cpp
+objects_types_values.h
 
