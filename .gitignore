@@ -1,0 +1,18 @@
+#ignore .exe, build and debug files
+*.exe
+*.obj
+*.pdb
+*.jpg
+*.jpeg
+GUI.tar
+
+#ignore this paths
+drill_exer/
+FLTK/
+ch3/build
+
+#ignore copyright content
+*/*/README.txt
+*/e.g.s/
+std_lib_facilities.cpp
+
