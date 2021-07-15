@@ -1,0 +1,1 @@
+clang drill.cpp -o drill.exe
